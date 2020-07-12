@@ -1,0 +1,5 @@
+#1~100の積
+result = 0
+for i in range (101):
+  result = i * result
+print(result)
